@@ -6,8 +6,8 @@ namespace COMBUSTIBLE
     {
         static void Main(string[] args)
         {
-            Automovil auto1 = new Automovil("Ford", "MY30527", "Scape", "Verde", 44, 12); // 12 km/galón
-            Automovil auto2 = new Automovil("Toyota", "MY78787", "Corolla", "Negro", 55, 10); // 10 km/galón
+            Automovil auto1 = new Automovil("Ford", "MY30527", "Scape", "Verde", 44, 10); // 10 km por galon
+            Automovil auto2 = new Automovil("Toyota", "MY78787", "Corolla", "Negro", 55, 15); // 10 km por galon
 
             auto1.Drive(200); //km
             auto2.Drive(300); //km

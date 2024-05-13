@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\COMBUSTIBLE\\COMBUSTIBLE\\COMBUSTIBLE.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\COMBUSTIBLE\\COMBUSTIBLE\\COMBUSTIBLE.csproj",
       "projectName": "COMBUSTIBLE",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\COMBUSTIBLE\\COMBUSTIBLE\\COMBUSTIBLE.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\COMBUSTIBLE\\COMBUSTIBLE\\COMBUSTIBLE.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\COMBUSTIBLE\\COMBUSTIBLE\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\COMBUSTIBLE\\COMBUSTIBLE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
